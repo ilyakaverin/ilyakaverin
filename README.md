@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ilyakaverin
 - 👀 I’m interested in frontend sofware engineering
 - 🌱 I’m currently learning javascript on hexlet.io
-- 💞️ I’m looking to collaborate on any opensource
+- 💞️ I’m looking for job as junior frontend developer
 - 📫 How to reach me: Telegram: seeuspacecowboyy
 
 <!---
