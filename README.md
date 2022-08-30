@@ -1,7 +1,7 @@
 - Hi, I’m @ilyakaverin
 - I’m interested in frontend sofware engineering
 - I’m currently learning javascript on hexlet.io and my job.
-- I’m not looking for job as junior frontend developer at the moment.
+- I’m not looking for job as frontend developer at the moment.
 - How to reach me: Telegram: ilyakaverin
 
 <!---
